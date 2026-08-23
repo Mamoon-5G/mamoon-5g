@@ -53,22 +53,22 @@ I'm a passionate **Computer Engineering** student with a love for creating innov
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamoon5G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamoon5G&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamoon-5G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamoon-5G&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoon5G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoon-5G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mamoon5G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mamoon-5G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamoon5G&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamoon-5G&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -81,7 +81,7 @@ I'm always open to interesting conversations, collaboration opportunities, and m
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_a__siddiqui_5g_)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mamoon_4G)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mamoon.siddiqui.146)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mamoon5G/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mamoon-5G/)
 [![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/MAMOON_4G)
 
 </div>
@@ -93,7 +93,7 @@ I'm always open to interesting conversations, collaboration opportunities, and m
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mamoon5G&style=for-the-badge&color=7C3AED" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mamoon-5G&style=for-the-badge&color=7C3AED" alt="Profile Views" />
   
   <br><br>
   
