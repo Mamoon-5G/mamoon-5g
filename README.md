@@ -42,7 +42,7 @@ I enjoy building applications, solving problems, and continuously learning how m
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-### Databases & Cloud
+### Database & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -61,19 +61,38 @@ I enjoy building applications, solving problems, and continuously learning how m
 
 <div align="center">
 
-<img width="48%" src="./profile/stats.svg" alt="GitHub Stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mamoon-5G&theme=tokyonight" alt="GitHub Stats" />
 
 <img width="48%" src="https://streak-stats.demolab.com?user=Mamoon-5G&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="55%" src="./profile/top-langs.svg" alt="Top Languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mamoon-5G&theme=tokyonight" alt="Top Languages by Repository" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mamoon-5G&theme=tokyonight" alt="Top Languages by Commit" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
+
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mamoon-5G&theme=tokyonight" alt="GitHub Contribution Activity" />
 
 </div>
 
 ## 🤝 Let's Connect!
 
-I'm always open to interesting conversations, collaboration opportunities, and connecting with people in tech.
+I'm always open to interesting conversations, collaboration opportunities, and making new connections in the tech community!
 
 <div align="center">
 
@@ -109,4 +128,3 @@ I'm always open to interesting conversations, collaboration opportunities, and c
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
 </div>
-
