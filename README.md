@@ -1,16 +1,16 @@
 # Hi there, I'm Mamoon Siddiqui! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Web+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Engineering** student with a love for creating innovative solutions through code. Currently diving deep into **Web Development** and **Data Structures & Algorithms**.
+I'm a **Computer Science Engineer** with a love for creating innovative solutions through code. Currently diving deep into **Web Development** and **Data Structures & Algorithms**.
 
 - 🔭 **Currently Working On:** Full-stack web applications and competitive programming
 - 🌱 **Learning:** Advanced React patterns, System Design, and DSA optimization
-- 💼 **Open To:** Internship opportunities and collaborative projects
+- 💼 **Open To:** Full-time opportunities and collaborative projects
 - 🎯 **Goal:** Contributing to open-source projects and building impactful software
 - ⚡ **Fun Fact:** *"Coding is just a piece of cake with a sprinkle of venom!"* 🍰⚡
 
@@ -54,7 +54,7 @@ I'm a passionate **Computer Engineering** student with a love for creating innov
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamoon-5G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamoon-5G&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Mamoon-5G&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -70,6 +70,8 @@ I'm a passionate **Computer Engineering** student with a love for creating innov
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamoon-5G&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
 </div>
+
+> **Note on the widgets above:** the streak-stats card now points to `streak-stats.demolab.com` — the old `github-readme-streak-stats.herokuapp.com` domain is dead since Heroku discontinued free dynos. The stats, trophy, and activity-graph cards still use the shared public Vercel demo instances, which occasionally hit rate limits and go blank for everyone at once (not just you). If they stop rendering again, that's the shared instance being overloaded, not a broken link. For guaranteed uptime, fork the relevant repo (`anuraghazra/github-readme-stats`, `ryo-ma/github-profile-trophy`, `Ashutosh00710/github-readme-activity-graph`) and deploy your own free instance on Vercel with one click, then swap the domain in the URLs above for your own.
 
 ## 🤝 Let's Connect!
 
@@ -94,12 +96,12 @@ I'm always open to interesting conversations, collaboration opportunities, and m
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mamoon-5G&style=for-the-badge&color=7C3AED" alt="Profile Views" />
-  
+
   <br><br>
-  
+
   <em>"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."</em> ✨
-  
+
   <br><br>
-  
+
   **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 </div>
